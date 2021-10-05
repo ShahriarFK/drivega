@@ -1,4 +1,4 @@
-##DriveGa
+# DRIVEGA Driving School
 
 
 # Getting Started with Create React App
