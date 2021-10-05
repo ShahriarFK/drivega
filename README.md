@@ -1,10 +1,10 @@
 # DRIVEGA Driving School
 ## About this project:
-⚫ This project is about driving school from Sydney,Austrilia
-⚫ You will get all information about how learn driving from this website
-⚫ You will get all the information about driving courses
-⚫ There are various kind of courses about driving
-⚫ You will also can know about all the cost and instructors
+- This project is about driving school from Sydney,Austrilia
+- You will get all information about how learn driving from this website
+- You will get all the information about driving courses
+- There are various kind of courses about driving
+- You will also can know about all the cost and instructors
 
  [DRIVEGA Driving School](https://drivega.netlify.app/contact).
 
