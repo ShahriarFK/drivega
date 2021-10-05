@@ -1,0 +1,65 @@
+[
+    {
+        "key": 1,
+        "name": "Highway Driving Lesson",
+        "Instructor": " Alex",
+        "price": "$400",
+        "img": "http://fastwpdemo.com/newwp/drivega/wp-content/uploads/2021/06/image-3.jpg"
+    },
+    {
+        "key": 2,
+        "name": "Manual Driving Lesson",
+        "Instructor": " Robbin",
+        "price": "$300",
+        "img": "http://fastwpdemo.com/newwp/drivega/wp-content/uploads/2021/06/image-4.jpg"
+    },
+    {
+        "key": 3,
+        "name": "International Lesson",
+        "Instructor": " Jackson",
+        "price": "$700",
+        "img": "http://fastwpdemo.com/newwp/drivega/wp-content/uploads/2021/06/image-5.jpg"
+    },
+    {
+        "key": 4,
+        "name": "Pre-Licensing Lesson",
+        "Instructor": " Regis",
+        "price": "$250",
+        "img": "http://fastwpdemo.com/newwp/drivega/wp-content/uploads/2021/06/image-17.jpg"
+    },
+    {
+        "key": 5,
+        "name": "Road Test Packages",
+        "Instructor": " Carrol",
+        "price": "$350",
+        "img": "http://fastwpdemo.com/newwp/drivega/wp-content/uploads/2021/06/image-18.jpg"
+    },
+    {
+        "key": 6,
+        "name": "Defensing Lesson",
+        "Instructor": " Josh",
+        "price": "$350",
+        "img": "http://fastwpdemo.com/newwp/drivega/wp-content/uploads/2021/06/image-3.jpg"
+    },
+    {
+        "key": 7,
+        "name": "Speed Driving Lesson",
+        "Instructor": " Michael",
+        "price": "$800",
+        "img": "http://fastwpdemo.com/newwp/drivega/wp-content/uploads/2021/06/image-22.jpg"
+    },
+    {
+        "key": 8,
+        "name": "Practice Driving Lesson",
+        "Instructor": " Samael",
+        "price": "$275",
+        "img": "http://fastwpdemo.com/newwp/drivega/wp-content/uploads/2021/06/image-20.jpg"
+    },
+    {
+        "key": 9,
+        "name": "Car for Practice",
+        "Instructor": " Aris",
+        "price": "$325",
+        "img": "http://fastwpdemo.com/newwp/drivega/wp-content/uploads/2021/06/image-4.jpg"
+    }
+]
