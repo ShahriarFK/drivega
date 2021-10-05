@@ -14,11 +14,10 @@ const Footer = () => {
                     </Col>
                     <Col>
                         <h4>
-                            Newsletter Signup
+                            Sign up here for more update
 
                         </h4>
-                        <p>Enter your email address to get latest
-                            updates and offers from us.</p>
+                        <p>Get every update about driving vehicles</p>
 
                         <Form>
                             <input></input>
@@ -30,16 +29,16 @@ const Footer = () => {
                     <Col>
                         <h4>Social Links</h4>
                         <li>
-                            <a href="#">Facebook</a>
+                            <a className="angkor" href="https://facebook.com/">Facebook</a>
                         </li>
                         <li>
-                            <a href="#">Instagram</a>
+                            <a className="angkor" href="https://instragram.com/">Instagram</a>
                         </li>
                         <li>
-                            <a href="#">Twitter</a>
+                            <a className="angkor" href="https://twitter.com/">Twitter</a>
                         </li>
                         <li>
-                            <a href="#">Linkedin</a>
+                            <a className="angkor" href="https://linkedin.com">Linkedin</a>
                         </li>
                     </Col>
                     <Col>

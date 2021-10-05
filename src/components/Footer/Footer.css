@@ -1,7 +1,13 @@
 /* Footer style */
 
 .footer{
-    background-color: black;
+    background-color: rgb(36, 0, 95);
     color: white;
     padding: 50px;
+}
+/* for link */
+.angkor{
+    text-decoration: none;
+    color: white;
+    
 }

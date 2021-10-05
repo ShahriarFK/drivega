@@ -1,5 +1,5 @@
 import React from 'react';
-import { Card, Col, Container, Row, Button, CardGroup } from 'react-bootstrap';
+import { Card, Col, Container, Row, CardGroup } from 'react-bootstrap';
 import Footer from '../Footer/Footer';
 import './Tutor.css'
 const Tutor = () => {
